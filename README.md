@@ -2,7 +2,12 @@
 - 👀 I’m interested in Machine learning(ML) , Deep learning(DL) , Artificial intelligence (A.I.)and Machine Vision
 - 🌱 I’m currently learning Data Science which requires both machine learning and deep learning models to train a dataset and predict the output or to provide neccessary 
 - solutions to a given problem.
-- 📫 You can always contact me through mails. 
+- 📫 You can always contact me through mails.
+                  Mail id :- rahulwadwani786@gmail.com
+                  Linkedin :- https://www.linkedin.com/in/rahul-wadwani
+                  Facebook :- https://m.facebook.com/public/Rahul-Wadwani
+                  Instagram:- reminiscence_rahul
+                  
 
 <!---
 RahulWadwani/RahulWadwani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
