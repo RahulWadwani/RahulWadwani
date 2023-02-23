@@ -2,7 +2,6 @@
 - 👀 I have a keen interest in Data related field such as data science and business analysts.
 - 🌱 I’m currently learning and training in Data Science
 - 📫 You can always contact me through mails.
-- 
 _____________________________________________________________________________________________________________________________________
                   Mail id :- rahulwadwani786@gmail.com
                   Linkedin :- https://www.linkedin.com/in/rahul-wadwani
