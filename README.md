@@ -1,12 +1,15 @@
-- 👋 Hi, I’m @RahulWadwani. Crazy about techs and i love watching animes and sci-fi films . My hobbies are to play cricket and badminton. 
-- 👀 I’m interested in Machine learning(ML) , Deep learning(DL) , Artificial intelligence (A.I.)and Machine Vision
-- 🌱 I’m currently learning Data Science which requires both machine learning and deep learning models to train a dataset and predict the output or to provide neccessary 
-- solutions to a given problem.
+- 👋 Hi, I’m @RahulWadwani. Crazy about techs and i love watching animes and sci-fi films . My hobbies are to play every sports.
+- 👀 I have a keen interest in Data related field such as data science and business analysts.
+- 🌱 I’m currently learning and training in Data Science
 - 📫 You can always contact me through mails.
+- 
+_____________________________________________________________________________________________________________________________________
                   Mail id :- rahulwadwani786@gmail.com
                   Linkedin :- https://www.linkedin.com/in/rahul-wadwani
                   Facebook :- https://m.facebook.com/public/Rahul-Wadwani
                   Instagram:- reminiscence_rahul
+_____________________________________________________________________________________________________________________________________
+-
                   
 
 <!---
