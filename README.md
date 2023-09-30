@@ -1,4 +1,4 @@
-<img src = "https://www.canva.com/design/DAFv7TcDjNs/k-hwunSlUI3M-gH5id4lJg/watch?utm_content=DAFv7TcDjNs&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink"></img>
+<img src = "[https://www.canva.com/design/DAFv7TcDjNs/k-hwunSlUI3M-gH5id4lJg/watch?utm_content=DAFv7TcDjNs&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink](https://www.canva.com/design/DAFv7TcDjNs/k-hwunSlUI3M-gH5id4lJg/watch?utm_content=DAFv7TcDjNs&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)"></img>
 <h1 align="center">Hi 👋, I'm Rahul Wadwani</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 <img align = "right" src ="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"></img>
