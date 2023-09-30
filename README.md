@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Rahul Wadwani</h1>
+![image](https://github.com/RahulWadwani/RahulWadwani/assets/97276538/5eb665c1-ea8b-42fe-8f82-26183ec7604d)<h1 align="center">Hi 👋, I'm Rahul Wadwani</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
+<img align = "right" src ="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"></img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulwadwani&label=Profile%20views&color=0e75b6&style=flat" alt="rahulwadwani" /> </p>
 
