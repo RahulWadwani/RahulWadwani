@@ -1,4 +1,10 @@
-<img src = "https://www.datanami.com/wp-content/uploads/2016/06/Data-Magic-Man.png" width = "100%" height = "50%" ></img>
+<img src = "" ></img>
+
+<div class="image-container">
+    <img src="https://www.datanami.com/wp-content/uploads/2016/06/Data-Magic-Man.png" width = "100%" height = "25%" alt="Your Image">
+    <div class="image-text">Rahul Wadwani</div>
+</div>
+
 <h1 align="center">Hi 👋, I'm Rahul Wadwani</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 <img align = "right" src ="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"></img>
