@@ -1,8 +1,6 @@
-<img src = "" ></img>
-
-<div class="image-container">
-    <img src="https://www.datanami.com/wp-content/uploads/2016/06/Data-Magic-Man.png" width = "100%" height = "25%" alt="Your Image">
-    <div class="image-text">Rahul Wadwani</div>
+<div style="position: relative; text-align: center;">
+    <img src="https://www.magicfinserv.com/wp-content/uploads/2021/11/blog-img-1.jpg" alt="Image" style="width: 100%;">
+    <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); background-color: rgba(0, 0, 0, 0.7); color: #fff; padding: 10px 20px; border-radius: 5px; font-size: 16px;">Text on Top of Image</div>
 </div>
 
 <h1 align="center">Hi 👋, I'm Rahul Wadwani</h1>
