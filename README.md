@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 💬 Ask me about **Data Analytics**
+- 💬 Ask me about **Data Analytics**, **Machine Learning** and **Data Science**
 
 - 📫 How to reach me **rahulwadwani786@gmail.com**
 
